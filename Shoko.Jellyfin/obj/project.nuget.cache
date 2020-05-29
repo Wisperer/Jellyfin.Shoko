@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t5UVNhQoJqkmMNWP0tUazC3yt9E37Q/1gKz6wjJCMBIo6+chFx12teaPQu0SihhmaGd2w0zMXz6SxyGjy/u4NQ==",
+  "dgSpecHash": "XnV/ZBdL2l29f2EIQTzZquW4VQLfLRV1PKta/toXX2Z7AEPqeV5qn/g5461PgeNmRRmjTKZxM1swVMPPpEKdDA==",
   "success": true,
-  "projectFilePath": "/home/fletcher/Shoko.Emby/Shoko.Jellyfin/Shoko.Jellyfin.csproj",
+  "projectFilePath": "/home/fletcher/Jellyfin.Shoko/Shoko.Jellyfin/Shoko.Jellyfin.csproj",
   "expectedPackageFiles": [
     "/home/fletcher/.nuget/packages/jellyfin.common/10.5.5/jellyfin.common.10.5.5.nupkg.sha512",
     "/home/fletcher/.nuget/packages/jellyfin.controller/10.5.5/jellyfin.controller.10.5.5.nupkg.sha512",

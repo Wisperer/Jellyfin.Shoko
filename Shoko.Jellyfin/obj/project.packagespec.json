@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/fletcher/Shoko.Emby/Shoko.Jellyfin/Shoko.Jellyfin.csproj",
+    "projectUniqueName": "/home/fletcher/Jellyfin.Shoko/Shoko.Jellyfin/Shoko.Jellyfin.csproj",
     "projectName": "Shoko.Jellyfin",
-    "projectPath": "/home/fletcher/Shoko.Emby/Shoko.Jellyfin/Shoko.Jellyfin.csproj",
-    "outputPath": "/home/fletcher/Shoko.Emby/Shoko.Jellyfin/obj/",
+    "projectPath": "/home/fletcher/Jellyfin.Shoko/Shoko.Jellyfin/Shoko.Jellyfin.csproj",
+    "outputPath": "/home/fletcher/Jellyfin.Shoko/Shoko.Jellyfin/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netstandard2.1"

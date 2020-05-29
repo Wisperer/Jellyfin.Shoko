@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fletcher/Shoko.Emby/Shoko.Jellyfin/Shoko.Jellyfin.csproj": {}
+    "/home/fletcher/Jellyfin.Shoko/Shoko.Jellyfin/Shoko.Jellyfin.csproj": {}
   },
   "projects": {
-    "/home/fletcher/Shoko.Emby/Shoko.Jellyfin/Shoko.Jellyfin.csproj": {
+    "/home/fletcher/Jellyfin.Shoko/Shoko.Jellyfin/Shoko.Jellyfin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fletcher/Shoko.Emby/Shoko.Jellyfin/Shoko.Jellyfin.csproj",
+        "projectUniqueName": "/home/fletcher/Jellyfin.Shoko/Shoko.Jellyfin/Shoko.Jellyfin.csproj",
         "projectName": "Shoko.Jellyfin",
-        "projectPath": "/home/fletcher/Shoko.Emby/Shoko.Jellyfin/Shoko.Jellyfin.csproj",
+        "projectPath": "/home/fletcher/Jellyfin.Shoko/Shoko.Jellyfin/Shoko.Jellyfin.csproj",
         "packagesPath": "/home/fletcher/.nuget/packages/",
-        "outputPath": "/home/fletcher/Shoko.Emby/Shoko.Jellyfin/obj/",
+        "outputPath": "/home/fletcher/Jellyfin.Shoko/Shoko.Jellyfin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fletcher/.nuget/NuGet/NuGet.Config"
